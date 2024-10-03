@@ -15,6 +15,8 @@ Mastodon is a **free, open-source social network server** based on ActivityPub w
 
 Click below to **learn more** in a video:
 
+You may have to dance.
+
 [![Screenshot](https://blog.joinmastodon.org/2018/06/why-activitypub-is-the-future/ezgif-2-60f1b00403.gif)][youtube_demo]
 
 [youtube_demo]: https://www.youtube.com/watch?v=IPSbNdBmWKE
